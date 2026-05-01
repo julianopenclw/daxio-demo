@@ -1,0 +1,5 @@
+/* Tailwind would be used; simple reset for MVP */
+:root{color-scheme: dark;}
+.card{ background:#1f2937; border:1px solid #374151; border-radius:8px; padding:12px; }
+.input{ width:100%; padding:8px; border-radius:6px; border:1px solid #374151; background:#0f172a; color:white; }
+.btn{ padding:8px 12px; border-radius:6px; border:1px solid #374151; background:#374151; color:white; }
